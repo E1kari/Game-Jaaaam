@@ -1,0 +1,10 @@
+while(Programme is alive){
+if(programmer.energy < 30){
+programmer.consciousness = false;
+while(programmer.energy <= randint(80,100)){
+wait(1hour);
+programmer.energy = programmer.energy + 10;
+}
+programmer.consciousness = true;
+}
+}
