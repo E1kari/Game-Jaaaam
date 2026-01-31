@@ -1,0 +1,1417 @@
+fileFormatVersion: 2
+guid: 44533f23a624b464a96d640012202f38
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 587590222179550831
+    second: test flower happy_0
+  - first:
+      213: 5491760060141815880
+    second: test flower happy_1
+  - first:
+      213: -8010795222287791711
+    second: test flower happy_2
+  - first:
+      213: -2696254790450332529
+    second: test flower happy_3
+  - first:
+      213: 8184812847807998985
+    second: test flower happy_4
+  - first:
+      213: -2005610513023723091
+    second: test flower happy_5
+  - first:
+      213: -6249960240785759040
+    second: test flower happy_6
+  - first:
+      213: -4411268038199301683
+    second: test flower happy_7
+  - first:
+      213: 5259225078462435121
+    second: test flower happy_8
+  - first:
+      213: 4863825497189889962
+    second: test flower happy_9
+  - first:
+      213: -1206684920642193015
+    second: test flower happy_10
+  - first:
+      213: -1017759762185056032
+    second: test flower happy_11
+  - first:
+      213: -2445379276073259557
+    second: test flower happy_12
+  - first:
+      213: 2014419141679373267
+    second: test flower happy_13
+  - first:
+      213: 1286056188226220504
+    second: test flower happy_14
+  - first:
+      213: 2062196624612526648
+    second: test flower happy_15
+  - first:
+      213: 5956180853093666846
+    second: test flower happy_16
+  - first:
+      213: -4764246291865216233
+    second: test flower happy_17
+  - first:
+      213: 916487441554443159
+    second: test flower happy_18
+  - first:
+      213: 7567247919516213726
+    second: test flower happy_19
+  - first:
+      213: 5968393813531554696
+    second: test flower happy_20
+  - first:
+      213: 6177526056114014834
+    second: test flower happy_21
+  - first:
+      213: -1573316969792273802
+    second: test flower happy_22
+  - first:
+      213: -4680981006068154586
+    second: test flower happy_23
+  - first:
+      213: -1234526153591721291
+    second: test flower happy_24
+  - first:
+      213: 5759722909929208401
+    second: test flower happy_25
+  - first:
+      213: 6020311377763893773
+    second: test flower happy_26
+  - first:
+      213: -68078097388350325
+    second: test flower happy_27
+  - first:
+      213: 4466276165927071751
+    second: test flower happy_28
+  - first:
+      213: 6273922404000182281
+    second: test flower happy_29
+  - first:
+      213: 8019714897822179765
+    second: test flower happy_30
+  - first:
+      213: 341518225507095080
+    second: test flower happy_31
+  - first:
+      213: 8319219957859146559
+    second: test flower happy_32
+  - first:
+      213: -6633866426837165534
+    second: test flower happy_33
+  - first:
+      213: 8865297229215900415
+    second: test flower happy_34
+  - first:
+      213: -6224256026593048705
+    second: test flower happy_35
+  - first:
+      213: -4223046674905601125
+    second: test flower happy_36
+  - first:
+      213: -3488558750900852843
+    second: test flower happy_37
+  - first:
+      213: 7635719825492814164
+    second: test flower happy_38
+  - first:
+      213: 1510824191687630244
+    second: test flower happy_39
+  - first:
+      213: -5547205549042940841
+    second: test flower happy_40
+  - first:
+      213: -2553987089716137490
+    second: test flower happy_41
+  - first:
+      213: 1798640490339257688
+    second: test flower happy_42
+  - first:
+      213: -5356686322862478061
+    second: test flower happy_43
+  - first:
+      213: -9043650949940540442
+    second: test flower happy_44
+  - first:
+      213: 8322032052519409885
+    second: test flower happy_45
+  - first:
+      213: -4030155061176062590
+    second: test flower happy_46
+  - first:
+      213: 2883453731761374385
+    second: test flower happy_47
+  - first:
+      213: 6468795170090453484
+    second: test flower happy_48
+  - first:
+      213: -7941527063136032610
+    second: test flower happy_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: test flower happy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f664182a13a872800800000000000000
+      internalID: 587590222179550831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1915
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8484e689da6a63c40800000000000000
+      internalID: 5491760060141815880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1913
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9c3273030f3d090800000000000000
+      internalID: -8010795222287791711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_3
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 1503
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c334fad8af49ad0800000000000000
+      internalID: -2696254790450332529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_4
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 1217
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c26aa8beb469170800000000000000
+      internalID: 8184812847807998985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_5
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1115
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da99e655dd3aa24e0800000000000000
+      internalID: -2005610513023723091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_6
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 969
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c466a3564ea349a0800000000000000
+      internalID: -6249960240785759040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_7
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 959
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9a816571708c2c0800000000000000
+      internalID: -4411268038199301683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_8
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 961
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f449328558cf840800000000000000
+      internalID: 5259225078462435121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_9
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 936
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7bd712587cf7340800000000000000
+      internalID: 4863825497189889962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_10
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 935
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9893d4d357ef04fe0800000000000000
+      internalID: -1206684920642193015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 844
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0164c73e030e1f0800000000000000
+      internalID: -1017759762185056032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 786
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd2d8c2184401ed0800000000000000
+      internalID: -2445379276073259557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_13
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 819
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbdb885987a4fb10800000000000000
+      internalID: 2014419141679373267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_14
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 811
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1ba641a4df8d110800000000000000
+      internalID: 1286056188226220504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_15
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 803
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a0a0377e46e9c10800000000000000
+      internalID: 2062196624612526648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_16
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 792
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1091aebdea98a250800000000000000
+      internalID: 5956180853093666846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_17
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 767
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71bd6e65d3ff1edb0800000000000000
+      internalID: -4764246291865216233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_18
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 736
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b85fae87408bc00800000000000000
+      internalID: 916487441554443159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_19
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 716
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1e31ac3e3440960800000000000000
+      internalID: 7567247919516213726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_20
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 690
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883ff2f2d8ef3d250800000000000000
+      internalID: 5968393813531554696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_21
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 699
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a4565d73bfab550800000000000000
+      internalID: 6177526056114014834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 678
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67200704d847a2ae0800000000000000
+      internalID: -1573316969792273802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_23
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 678
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ff4fc6390d90fb0800000000000000
+      internalID: -4680981006068154586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_24
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 669
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b27c3d01051edee0800000000000000
+      internalID: -1234526153591721291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_25
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 659
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a72036875aeef40800000000000000
+      internalID: 5759722909929208401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_26
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 598
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d020cd41d417c8350800000000000000
+      internalID: 6020311377763893773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_27
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 599
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84de24c4532e0ff0800000000000000
+      internalID: -68078097388350325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_28
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 607
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70070e272866bfd30800000000000000
+      internalID: 4466276165927071751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_29
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 569
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900bbce8f23711750800000000000000
+      internalID: 6273922404000182281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_30
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 569
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b169949530cb4f60800000000000000
+      internalID: 8019714897822179765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_31
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 521
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8221ca344015db400800000000000000
+      internalID: 341518225507095080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_32
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 448
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3bd88c797ec37370800000000000000
+      internalID: 8319219957859146559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_33
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 430
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a1bfce1a5cfe3a0800000000000000
+      internalID: -6633866426837165534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_34
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 363
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff22baf0cdcd70b70800000000000000
+      internalID: 8865297229215900415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_35
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 367
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7746df0f100f99a0800000000000000
+      internalID: -6224256026593048705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_36
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 325
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b6b508c69b465c0800000000000000
+      internalID: -4223046674905601125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_37
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 294
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597697a9c46269fc0800000000000000
+      internalID: -3488558750900852843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_38
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 261
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45928eab9b687f960800000000000000
+      internalID: 7635719825492814164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_39
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 244
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad9b9ff89687f410800000000000000
+      internalID: 1510824191687630244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_40
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 250
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754483981fd5403b0800000000000000
+      internalID: -5547205549042940841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_41
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 209
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee13984064a6e8cd0800000000000000
+      internalID: -2553987089716137490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_42
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 203
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d4e411ffd06f810800000000000000
+      internalID: 1798640490339257688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_43
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 155
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31da6989b2a39a5b0800000000000000
+      internalID: -5356686322862478061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_44
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 117
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb8b28506f7e7280800000000000000
+      internalID: -9043650949940540442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_45
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 106
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd895db4f0ccd7370800000000000000
+      internalID: 8322032052519409885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_46
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 117
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28dabd413530218c0800000000000000
+      internalID: -4030155061176062590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_47
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 107
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b449ef44e5140820800000000000000
+      internalID: 2883453731761374385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_48
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 32
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9010e1fe6c5c950800000000000000
+      internalID: 6468795170090453484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower happy_49
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 0
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9820ab46370ac190800000000000000
+      internalID: -7941527063136032610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      test flower happy_0: 587590222179550831
+      test flower happy_1: 5491760060141815880
+      test flower happy_10: -1206684920642193015
+      test flower happy_11: -1017759762185056032
+      test flower happy_12: -2445379276073259557
+      test flower happy_13: 2014419141679373267
+      test flower happy_14: 1286056188226220504
+      test flower happy_15: 2062196624612526648
+      test flower happy_16: 5956180853093666846
+      test flower happy_17: -4764246291865216233
+      test flower happy_18: 916487441554443159
+      test flower happy_19: 7567247919516213726
+      test flower happy_2: -8010795222287791711
+      test flower happy_20: 5968393813531554696
+      test flower happy_21: 6177526056114014834
+      test flower happy_22: -1573316969792273802
+      test flower happy_23: -4680981006068154586
+      test flower happy_24: -1234526153591721291
+      test flower happy_25: 5759722909929208401
+      test flower happy_26: 6020311377763893773
+      test flower happy_27: -68078097388350325
+      test flower happy_28: 4466276165927071751
+      test flower happy_29: 6273922404000182281
+      test flower happy_3: -2696254790450332529
+      test flower happy_30: 8019714897822179765
+      test flower happy_31: 341518225507095080
+      test flower happy_32: 8319219957859146559
+      test flower happy_33: -6633866426837165534
+      test flower happy_34: 8865297229215900415
+      test flower happy_35: -6224256026593048705
+      test flower happy_36: -4223046674905601125
+      test flower happy_37: -3488558750900852843
+      test flower happy_38: 7635719825492814164
+      test flower happy_39: 1510824191687630244
+      test flower happy_4: 8184812847807998985
+      test flower happy_40: -5547205549042940841
+      test flower happy_41: -2553987089716137490
+      test flower happy_42: 1798640490339257688
+      test flower happy_43: -5356686322862478061
+      test flower happy_44: -9043650949940540442
+      test flower happy_45: 8322032052519409885
+      test flower happy_46: -4030155061176062590
+      test flower happy_47: 2883453731761374385
+      test flower happy_48: 6468795170090453484
+      test flower happy_49: -7941527063136032610
+      test flower happy_5: -2005610513023723091
+      test flower happy_6: -6249960240785759040
+      test flower happy_7: -4411268038199301683
+      test flower happy_8: 5259225078462435121
+      test flower happy_9: 4863825497189889962
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

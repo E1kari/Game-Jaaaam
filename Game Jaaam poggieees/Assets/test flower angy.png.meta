@@ -1,0 +1,1417 @@
+fileFormatVersion: 2
+guid: 145b61d351dc58645ade622ca63e0e36
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5225128151392227315
+    second: test flower angy_0
+  - first:
+      213: 8223582379845467841
+    second: test flower angy_1
+  - first:
+      213: 8030413466127752180
+    second: test flower angy_2
+  - first:
+      213: -6011157833132648893
+    second: test flower angy_3
+  - first:
+      213: -511766660414055873
+    second: test flower angy_4
+  - first:
+      213: 8710223000389877251
+    second: test flower angy_5
+  - first:
+      213: -3805951425339374466
+    second: test flower angy_6
+  - first:
+      213: 7780641812194320791
+    second: test flower angy_7
+  - first:
+      213: -4107998447278160310
+    second: test flower angy_8
+  - first:
+      213: -7849590998629717578
+    second: test flower angy_9
+  - first:
+      213: 3594760798148905836
+    second: test flower angy_10
+  - first:
+      213: -8997659147781915742
+    second: test flower angy_11
+  - first:
+      213: 6606219053884698043
+    second: test flower angy_12
+  - first:
+      213: -6532250508374165439
+    second: test flower angy_13
+  - first:
+      213: 2210792131870100139
+    second: test flower angy_14
+  - first:
+      213: 7258972719703685718
+    second: test flower angy_15
+  - first:
+      213: -769095355247233040
+    second: test flower angy_16
+  - first:
+      213: 2852796579495759902
+    second: test flower angy_17
+  - first:
+      213: -2131656900181919139
+    second: test flower angy_18
+  - first:
+      213: -3750844877666602291
+    second: test flower angy_19
+  - first:
+      213: -3085953100172822681
+    second: test flower angy_20
+  - first:
+      213: -8367869355602133372
+    second: test flower angy_21
+  - first:
+      213: -6342324968991184150
+    second: test flower angy_22
+  - first:
+      213: -5066003749903030612
+    second: test flower angy_23
+  - first:
+      213: -7903409956430885908
+    second: test flower angy_24
+  - first:
+      213: 1623178624767992888
+    second: test flower angy_25
+  - first:
+      213: -1914898240977289361
+    second: test flower angy_26
+  - first:
+      213: 2452241771573223814
+    second: test flower angy_27
+  - first:
+      213: 1627069017933254367
+    second: test flower angy_28
+  - first:
+      213: 7686943247318147031
+    second: test flower angy_29
+  - first:
+      213: 5817247230354991382
+    second: test flower angy_30
+  - first:
+      213: 8204125750941291970
+    second: test flower angy_31
+  - first:
+      213: -6448270020218824599
+    second: test flower angy_32
+  - first:
+      213: 5444596216048835025
+    second: test flower angy_33
+  - first:
+      213: -2225344575497848425
+    second: test flower angy_34
+  - first:
+      213: -9008735738902861526
+    second: test flower angy_35
+  - first:
+      213: 8278608117972636741
+    second: test flower angy_36
+  - first:
+      213: -1654015953649444665
+    second: test flower angy_37
+  - first:
+      213: -5910769947871885623
+    second: test flower angy_38
+  - first:
+      213: 429599430738293235
+    second: test flower angy_39
+  - first:
+      213: 902844058698751271
+    second: test flower angy_40
+  - first:
+      213: -1359063358783695807
+    second: test flower angy_41
+  - first:
+      213: 5400161990144141106
+    second: test flower angy_42
+  - first:
+      213: 7080203499291599255
+    second: test flower angy_43
+  - first:
+      213: -7579528734721751591
+    second: test flower angy_44
+  - first:
+      213: -1277641406396755308
+    second: test flower angy_45
+  - first:
+      213: -8744445841410623250
+    second: test flower angy_46
+  - first:
+      213: -8461554548960719345
+    second: test flower angy_47
+  - first:
+      213: 1749512414970457543
+    second: test flower angy_48
+  - first:
+      213: -8515718034001836671
+    second: test flower angy_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: test flower angy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff80a9ae52638840800000000000000
+      internalID: 5225128151392227315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1915
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ceb9d3aa98002270800000000000000
+      internalID: 8223582379845467841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1913
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbde002082c17f60800000000000000
+      internalID: 8030413466127752180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_3
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 1503
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346525b9cc3149ca0800000000000000
+      internalID: -6011157833132648893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_4
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 1217
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ad12e0fe6d5e8f0800000000000000
+      internalID: -511766660414055873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_5
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1115
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30efcac8bade0e870800000000000000
+      internalID: 8710223000389877251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_6
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 969
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74414ce75b8e2bc0800000000000000
+      internalID: -3805951425339374466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_7
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 959
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791e46c21846afb60800000000000000
+      internalID: 7780641812194320791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_8
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 961
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4601246d257df6c0800000000000000
+      internalID: -4107998447278160310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_9
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 936
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9629e5396a01390800000000000000
+      internalID: -7849590998629717578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_10
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 935
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b4a2a66e723e130800000000000000
+      internalID: 3594760798148905836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 844
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab3a6e3da4e12380800000000000000
+      internalID: -8997659147781915742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 786
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbde63f6a310eab50800000000000000
+      internalID: 6606219053884698043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_13
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 819
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1483e70a5c8c855a0800000000000000
+      internalID: -6532250508374165439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_14
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 811
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa885c0bbf4eae10800000000000000
+      internalID: 2210792131870100139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_15
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 803
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a70389a3d0db460800000000000000
+      internalID: 7258972719703685718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_16
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 792
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7f51869df9355f0800000000000000
+      internalID: -769095355247233040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_17
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 767
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e105b41df5b279720800000000000000
+      internalID: 2852796579495759902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_18
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 736
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a75a1e755da62e0800000000000000
+      internalID: -2131656900181919139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_19
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 716
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2b613e47252fbc0800000000000000
+      internalID: -3750844877666602291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_20
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 690
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767fea6610e7c25d0800000000000000
+      internalID: -3085953100172822681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_21
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 699
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e357ce72b5fdb80800000000000000
+      internalID: -8367869355602133372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 678
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeaa0353b098bf7a0800000000000000
+      internalID: -6342324968991184150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_23
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 678
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6ab382e60f1b9b0800000000000000
+      internalID: -5066003749903030612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_24
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 669
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebc6a8c482715290800000000000000
+      internalID: -7903409956430885908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_25
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 659
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834ad48fb50b68610800000000000000
+      internalID: 1623178624767992888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_26
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 598
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f3785023aec65e0800000000000000
+      internalID: -1914898240977289361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_27
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 599
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6812ff116ec180220800000000000000
+      internalID: 2452241771573223814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_28
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 607
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde84f6b6a2849610800000000000000
+      internalID: 1627069017933254367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_29
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 569
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df5cf008228daa60800000000000000
+      internalID: 7686943247318147031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_30
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 569
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6192fefe8830bb050800000000000000
+      internalID: 5817247230354991382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_31
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 521
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c59d7537e8ead170800000000000000
+      internalID: 8204125750941291970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_32
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 448
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9685e0db4942386a0800000000000000
+      internalID: -6448270020218824599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_33
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 430
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9d60b69671f8b40800000000000000
+      internalID: 5444596216048835025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_34
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 363
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799bb9226ecfd11e0800000000000000
+      internalID: -2225344575497848425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_35
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 367
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a292457639a8af280800000000000000
+      internalID: -9008735738902861526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_36
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 325
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5449c6aa83683e270800000000000000
+      internalID: 8278608117972636741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_37
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 294
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c855e5e041cb09e0800000000000000
+      internalID: -1654015953649444665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_38
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 261
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6ca0c8c0ab8fda0800000000000000
+      internalID: -5910769947871885623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_39
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 244
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1bdd8f76e36f500800000000000000
+      internalID: 429599430738293235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_40
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 250
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d9f4e43eb878c00800000000000000
+      internalID: 902844058698751271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_41
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 209
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144d2786313a32de0800000000000000
+      internalID: -1359063358783695807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_42
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 203
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237ab1008ba31fa40800000000000000
+      internalID: 5400161990144141106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_43
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 155
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791e0c0f19fe14260800000000000000
+      internalID: 7080203499291599255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_44
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 117
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d54b0a16ca10d690800000000000000
+      internalID: -7579528734721751591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_45
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 106
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492146df8e7e44ee0800000000000000
+      internalID: -1277641406396755308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_46
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 117
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8f31956dc75a680800000000000000
+      internalID: -8744445841410623250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_47
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 107
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e0b9d08f4829a80800000000000000
+      internalID: -8461554548960719345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_48
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 32
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd2378a544874810800000000000000
+      internalID: 1749512414970457543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test flower angy_49
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 0
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185cee7f09712d980800000000000000
+      internalID: -8515718034001836671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      test flower angy_0: 5225128151392227315
+      test flower angy_1: 8223582379845467841
+      test flower angy_10: 3594760798148905836
+      test flower angy_11: -8997659147781915742
+      test flower angy_12: 6606219053884698043
+      test flower angy_13: -6532250508374165439
+      test flower angy_14: 2210792131870100139
+      test flower angy_15: 7258972719703685718
+      test flower angy_16: -769095355247233040
+      test flower angy_17: 2852796579495759902
+      test flower angy_18: -2131656900181919139
+      test flower angy_19: -3750844877666602291
+      test flower angy_2: 8030413466127752180
+      test flower angy_20: -3085953100172822681
+      test flower angy_21: -8367869355602133372
+      test flower angy_22: -6342324968991184150
+      test flower angy_23: -5066003749903030612
+      test flower angy_24: -7903409956430885908
+      test flower angy_25: 1623178624767992888
+      test flower angy_26: -1914898240977289361
+      test flower angy_27: 2452241771573223814
+      test flower angy_28: 1627069017933254367
+      test flower angy_29: 7686943247318147031
+      test flower angy_3: -6011157833132648893
+      test flower angy_30: 5817247230354991382
+      test flower angy_31: 8204125750941291970
+      test flower angy_32: -6448270020218824599
+      test flower angy_33: 5444596216048835025
+      test flower angy_34: -2225344575497848425
+      test flower angy_35: -9008735738902861526
+      test flower angy_36: 8278608117972636741
+      test flower angy_37: -1654015953649444665
+      test flower angy_38: -5910769947871885623
+      test flower angy_39: 429599430738293235
+      test flower angy_4: -511766660414055873
+      test flower angy_40: 902844058698751271
+      test flower angy_41: -1359063358783695807
+      test flower angy_42: 5400161990144141106
+      test flower angy_43: 7080203499291599255
+      test flower angy_44: -7579528734721751591
+      test flower angy_45: -1277641406396755308
+      test flower angy_46: -8744445841410623250
+      test flower angy_47: -8461554548960719345
+      test flower angy_48: 1749512414970457543
+      test flower angy_49: -8515718034001836671
+      test flower angy_5: 8710223000389877251
+      test flower angy_6: -3805951425339374466
+      test flower angy_7: 7780641812194320791
+      test flower angy_8: -4107998447278160310
+      test flower angy_9: -7849590998629717578
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
